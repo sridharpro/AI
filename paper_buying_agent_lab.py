@@ -1,4 +1,11 @@
-import random
+## Author: Sridhar Chowdhary  Created on: 18-DEC-2018
+## M.Tech AI, CVR college of Engineering
+## Under the guidance of Dr. R. Ponnusamy
+
+## This program simulates the behaviour of modal based agent.
+## The agent buys paper based on the price of the paper and paper stock available on a given day.
+## List price contains price of the paper on a given day
+
 
 price=[100,120,180,200,150,110,50,70,90,100,150,160,100,120,70,100,120]
 stock=[500]
